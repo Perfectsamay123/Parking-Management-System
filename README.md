@@ -12,6 +12,11 @@ This is a Spring boot application to register ,park, calculate price and maintai
 * Java 1.8
 * Maven 3
 
+## SETUP
+* Clone the following Repo : [ click_this](https://github.com/Perfectsamay123/Parking-Management-System.git)
+* Resolve the dependencies
+* Run the application through main driver class and use the below given endpoints.
+
 ## REST API
 * The following Endpoints are used in the Parking Management System.The Request & Response Body are described as below:
 
